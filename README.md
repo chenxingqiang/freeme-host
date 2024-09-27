@@ -7,6 +7,43 @@
   <a href="https://cal.com/guchenhe/60-min-meeting">Enterprise inquiry</a>
 </p>
 
+# FreeMe Host: The Open-Source LLM App Development Platform
+
+**FreeMe Host** is an open-source platform for building, deploying, and managing LLM (Large Language Model) applications with ease. It offers a powerful, intuitive interface that brings together all the tools you need to quickly move from prototyping to production. 
+
+## Key Features
+
+- **AI Workflow Orchestration**: Seamlessly design, visualize, and manage your AI workflows. The intuitive interface allows you to define the sequence of tasks, model integrations, and conditions, enabling rapid development and testing.
+  
+- **RAG Pipeline Integration**: FreeMe Host comes with built-in support for Retrieval-Augmented Generation (RAG) pipelines, allowing you to easily integrate retrieval-based approaches to enhance your LLM application’s performance.
+
+- **Advanced Agent Capabilities**: The platform supports AI agents that can automate tasks, interact with different models, and respond dynamically to varying conditions, empowering your LLM applications with adaptive and autonomous behavior.
+
+- **Model Management & Deployment**: Effortlessly manage multiple models within FreeMe Host. With features for model versioning, deployment, and scaling, you can ensure your applications are always using the right models at the right time.
+
+- **Observability & Monitoring**: FreeMe Host offers robust observability features that let you monitor your AI workflows and LLM applications in real-time. Track key metrics, performance insights, and debug issues to keep your applications running smoothly.
+
+## Build, Test, Deploy – All in One Place
+
+With FreeMe Host, you can quickly design and deploy LLM-powered applications without the complexity of traditional development platforms. From managing multiple models to setting up workflows and agents, FreeMe Host simplifies every stage of the process:
+
+1. **Drag-and-Drop Workflow Design**: Create sophisticated AI workflows with a visual editor. Connect tasks, agents, and models to define your application's logic effortlessly.
+  
+2. **LLM & RAG Pipelines in Minutes**: Set up and configure retrieval-augmented generation pipelines that can combine LLM capabilities with external knowledge sources, delivering richer and more accurate results.
+
+3. **Powerful Agent Automation**: Leverage AI agents to automate complex workflows and decision-making processes, giving your applications the intelligence to adapt and respond on their own.
+
+4. **One-Click Model Management**: Manage, update, and deploy LLM models effortlessly. FreeMe Host handles model versioning, deployment across environments, and performance tracking.
+
+5. **Real-Time Insights & Analytics**: Gain full visibility into your application's performance and behavior. Get real-time alerts, visualizations, and reports to optimize and ensure smooth operations.
+
+---
+
+**Get Started with FreeMe Host**
+FreeMe Host is designed to be the go-to platform for LLM app developers who want to accelerate their AI development lifecycle. With its rich feature set and open-source model, FreeMe Host is perfect for teams looking to build scalable, intelligent, and efficient AI applications with ease.
+
+Build smarter, deploy faster, and manage better with **FreeMe Host**. Your journey from prototype to production just got a whole lot easier.
+
 <p align="center">
     <a href="https://dify.ai" target="_blank">
         <img alt="Static Badge" src="https://img.shields.io/badge/Product-F04438"></a>
